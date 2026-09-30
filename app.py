@@ -8,7 +8,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("💰 Tính lãi gửi tiết kiệm")
+st.title("💰 App tính tiền gửi tiết kiệm_Lê Vy Bank")
 st.markdown("Tính lãi đơn & lãi kép – Lãnh lãi theo tháng / quý / cuối kỳ")
 
 # ==================== INPUT ====================
