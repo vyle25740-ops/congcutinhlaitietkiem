@@ -3,7 +3,7 @@ st.image("tctt.jpg")
 import math
 
 st.set_page_config(
-    page_title="Tính lãi gửi tiết kiệm",
+    page_title="App tính tiền gửi tiết kiệm_Lê Vy Bank",
     page_icon="💰",
     layout="centered"
 )
